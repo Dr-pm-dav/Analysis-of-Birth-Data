@@ -1,1 +1,3 @@
 # Analysis-of-Birth-Data
+Introduction
+The analysis of birth data provides significant insights into patterns and trends that influence public health policies, healthcare planning, and medical research. Using R programming, this study examines the 2006 birth data available in the Nutshell library, focusing on key variables such as birth weight, delivery methods, Apgar scores, and the timing of births. The dataset, comprising 427,323 observations across 13 variables, enables a detailed exploration of factors affecting birth outcomes. This analysis employs descriptive statistics, graphical methods, and statistical summaries to uncover relationships and trends. The results can inform clinical decision-making and resource allocation in maternal and neonatal care.
